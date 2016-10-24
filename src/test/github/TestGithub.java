@@ -14,7 +14,7 @@ import javafx.stage.Stage;
 
 public class TestGithub extends Application
 {
-    // hej hej hej
+    // hej hej hej 2
     @Override
     public void start(Stage stage) throws Exception
     {
